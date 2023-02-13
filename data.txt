@@ -1,0 +1,3 @@
+Name: Gato
+Age: 5
+Favorite color: green
